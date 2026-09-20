@@ -14,7 +14,7 @@ layout:
 
 # 欢迎使用智增增
 
-（<mark style="color:red;">**由于gitbook的速度问题，以后将开发文档逐步迁移到新地址：**</mark>[<mark style="color:red;">**http://doc.zhizengzeng.com**</mark>](http://doc.zhizengzeng.com)）     
+（<mark style="color:red;">**由于gitbook的速度问题，开发文档新地址：**</mark>[<mark style="color:red;">**http://doc.zhizengzeng.com**</mark>](http://doc.zhizengzeng.com)）     
 
 智增增，大模型的API接口服务商。     
 
