@@ -16,9 +16,7 @@ layout:
 
 （<mark style="color:red;">**由于gitbook的速度问题，开发文档新地址：**</mark>[<mark style="color:red;">**http://doc.zhizengzeng.com**</mark>](http://doc.zhizengzeng.com)）     
 
-智增增，大模型的API接口服务商。     
-
-企业级稳定的OpenAI、Claude、Gemini等的API接口-For企业和开发者     
+智增增，大模型的API接口服务商。       
 
 常用链接导航：     
 1、智增增官网：[https://zzz-api.top](https://zzz-api.top)      
